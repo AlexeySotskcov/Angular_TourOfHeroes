@@ -10,3 +10,4 @@
 
 ### Make changes to the application
 
+### 1 The Hero Editor
