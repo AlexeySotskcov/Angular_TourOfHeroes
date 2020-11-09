@@ -13,3 +13,5 @@
 ### 1 The Hero Editor
 
 ### 2 Display a List
+
+### 3 Create a Feature Component
